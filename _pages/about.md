@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher in the Research Laboratory of Electronics and the Department of Physics at MIT, hosted by [Prof. Isaac Chuang](https://web.mit.edu/~cua/www/quanta/). I will join NCSU as an assistant professor starting January 2024 in the Departments of [Electrical and Computer Engineering](https://ece.ncsu.edu) and [Computer Science](https://www.csc.ncsu.edu). See [Research](/research/) for some topics I am interested in. **Email me** if you would like to join my group!
+I am currently a postdoctoral researcher in the Research Laboratory of Electronics and the Department of Physics at MIT, hosted by [Prof. Isaac Chuang](https://web.mit.edu/~cua/www/quanta/). I will join NCSU as an assistant professor starting January 2024 in the Departments of [Electrical and Computer Engineering](https://ece.ncsu.edu) and [Computer Science](https://www.csc.ncsu.edu). See [Research](/research/) for some topics I am interested in. **Email me if you would like to join my group!**
 
 I study quantum-classical algorithms to solve challenging problems in quantum chemistry, chemical physics, and material science, including correlated electronic structure and real-time dynamics. I also develop novel protocols to leverage continuous-variable quantum systems such as bosonic oscillators for computation, information processing, and sensing. Another topic of interest is how quantum error correction may be performed at a system or algorithm level. These topics are investigated from theoretical and computational perspectives, with possible experimental collaborations.
 
