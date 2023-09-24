@@ -1,0 +1,43 @@
+09.20.2023
+Ruby and Gem cause big trouble. This website is useful https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma. I have used changeruby version package to manage different ruby versions.
+
+There may be issues with openssl. Try these for solution:
+alexventuraio commented on Jul 23
+I got Ruby 3.2.2 installed by downgrading OpenSSL to v1.1
+
+brew install openssl@1.1
+brew list    # just to make sure we have it installed
+brew unlink openssl@3
+brew link openssl@1.1
+
+# ...
+
+openssl version
+# OpenSSL 1.1.1u  30 May 2023
+
+rvm install 3.2.2   # all good now! :)
+ @melsner11
+melsner11 commented on Jul 25
+I was reading this article and following step should solve the issue with ssl
+
+brew install openssl@3
+ruby-install 3.1.4 -- --with-openssl-dir=$(brew --prefix openssl@3)
+chruby 3.1.4
+ @julianharty julianharty mentioned this issue on Jul 31
+Commissioning Ruby 3.x and Jekyll commercetest/commercetest.github.io#1
+Closed
+@xguz
+xguz commented on Aug 17
+Here's what worked for me with RVM:
+brew install openssl@3
+rvm install 3.2.2 --with-openssl-dir=$(brew --prefix openssl@3)
+
+
+How to find PID for the TCP ports:
+lsof -wni tcp:4000
+
+kill -9 PID
+
+
+To change the profile photo size:
+_sass/_base.scss line 142

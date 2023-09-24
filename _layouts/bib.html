@@ -2,7 +2,7 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+        <div class="col-sm-3 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -42,7 +42,7 @@
 
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
-          {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
+          {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "\(" | remove: "\)" | remove: "\dagger" | remove: "†" | remove: "^" -%}
           {%- if site.scholar.last_name contains author_last_name -%}
             {%- if site.scholar.first_name contains author.first -%}
               {%- assign author_is_self = true -%}

@@ -1,13 +1,17 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Research
+permalink: /research/
+description: 
 nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
+display_categories: [Quantum Algorithms and Simulation, Hybrid Discrete-Continuous Variable QIP, Quantum Electrical and Computer Engineering]
+horizontal: true
 ---
+
+Quantum information science (QIS) studies the control and manipulation of quantum information. It provides fundamental insights to refresh our understanding of Nature, and yet also serve as a powerful tool to address practical problems. Our research in the QuEST group aims at developing novel QIS-inspired algorithms and framework to tackle long-lasting challenges across a wide range of topics in physical sciences and engineering:
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -17,10 +21,11 @@ horizontal: false
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
