@@ -41,3 +41,10 @@ kill -9 PID
 
 To change the profile photo size:
 _sass/_base.scss line 142
+
+
+9.24.2023:
+To deploy, first need to switch to the correct Ruby version:
+> chruby 3.2
+> bundle exec jekyll serve --lsi
+
