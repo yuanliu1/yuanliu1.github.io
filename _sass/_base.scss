@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+//  font-size: 1rem;
 }
 
 hr {
@@ -152,7 +153,9 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  // original setting
+  // font-size: 0.875rem;
+  font-size: 1.0rem;
 
   a {
     color: inherit;
@@ -306,7 +309,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
     //position: absolute;
     //bottom: 30px;
     //align: center;
@@ -643,8 +646,11 @@ footer.sticky-bottom {
         }
 
         >em {
-          border-bottom: 1px solid;
+          // this is the original underscore.
+          // border-bottom: 1px solid;
           font-style: normal;
+          // the following is added by me for bold font
+          font-weight: bold;
         }
 
         >span.more-authors {
@@ -1025,11 +1031,12 @@ nav[data-toggle="toc"] {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
-      // font-size: 1.5rem;
+      //font-size: 1.0rem;
     }
 
     &:hover {
       color: var(--global-theme-color);
+      //font-size: 1.0rem;
 
       .card-title {
         color: var(--global-theme-color);
