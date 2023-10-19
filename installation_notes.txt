@@ -1,4 +1,4 @@
-09.20.2023
+################# 09.20.2023 ####################
 Ruby and Gem cause big trouble. This website is useful https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma. I have used changeruby version package to manage different ruby versions.
 
 There may be issues with openssl. Try these for solution:
@@ -43,7 +43,7 @@ To change the profile photo size:
 _sass/_base.scss line 142
 
 
-9.24.2023:
+################### 9.24.2023 ################
 To deploy, first need to switch to the correct Ruby version:
 > chruby 3.2
 > bundle exec jekyll serve --lsi
