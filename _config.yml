@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Quantum Engineering and Simulation Theory 
-first_name: Yuan
+title: Welcome to QuEST @ NC State!
+first_name: QuEST
 middle_name: 
-last_name: Liu
-email: yuanliu@mit.edu
+last_name:
+email: q_yuanliu@ncsu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: 
