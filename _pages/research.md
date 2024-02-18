@@ -9,7 +9,7 @@ display_categories: [Quantum Algorithms and Simulation, Hybrid Discrete-Continuo
 horizontal: true
 ---
 
-Quantum information science (QIS) studies the control and manipulation of quantum information. It provides new perspectives to rejuvenate our understanding of the fundamentals of Nature, and also serves as a powerful tool to solve important practical problems with ever-increasing complexity. Combining rigorious analytical reasoning and effective numerical approaches, our research in the QuEST group aims at developing novel QIS-inspired algorithms and framework to tackle long-lasting challenges in physical sciences and engineering.
+Quantum information science (QIS) studies the control and manipulation of quantum information. It provides new perspectives to rejuvenate our understanding of the fundamental aspects of Nature, and also serves as a powerful tool to solve important practical problems with ever-increasing complexity. Combining rigorious analytical reasoning and effective numerical approaches, our research in the QuEST group aims at developing novel QIS-inspired algorithms and framework to tackle long-lasting challenges in physical sciences and engineering.
 
 
 
