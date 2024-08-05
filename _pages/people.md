@@ -13,7 +13,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: prof_pic.jpg
+    image: prof_pic.png
     content: about_yliu.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -38,17 +38,21 @@ profiles:
     image: dd.jpg
     content: about_dd.md
     image_circular: true # crops the image to make it circular
-  - align: left
-    image: 
-    content: about_lli.md
-    image_circular: true
-  - align: left
-    image: 
-    content: about_ljxiong.md
-    image_circular: true
+##  - align: left
+##    image: 
+##    content: about_lli.md
+##    image_circular: true
+##  - align: left
+##    image: 
+##    content: about_ljxiong.md
+##    image_circular: true
   - align: left
     image: 
     content: about_lxbai.md
+    image_circular: true
+  - align: left
+    image: agou.jpeg 
+    content: about_agou.md
     image_circular: true
   - align: left
     image: 
