@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hybrid Discrete-Continuous Variable Quantum Information Processing 
+title: Hybrid Discrete-Continuous Variable Quantum Computing 
 description: <h6> </h6>Conventionally, quantum information science studies the control of discrete-variable (DV) systems such as qubits. Continuous-variable (CV) systems such as bosonic modes are ubiquitous in Nature (such as molecular vibrations, phonons in solid materials, photons in optics) and yet much less is known on how to control and utilize them. We develop rigorious theories and efficient schemes to simultaneously manipulate multiple bosonic modes and qubits in a hybrid fashion to fully unleash the potential of hybrid DV-CV computation and quantum information processing.
 img: assets/img/qubit-osc.png
 importance: 2
-category: Hybrid Discrete-Continuous Variable Quantum Information Processing
+category: Hybrid Discrete-Continuous Variable Quantum Computing
 giscus_comments: true
 ---
 
@@ -23,12 +23,22 @@ Bosonic modes (quantum harmonic oscillators) provide vast hardware-efficient qua
 
 
 <p>&nbsp;</p>
-<h3><b>Hybrid CV-DV Quantum Signal Processing</b></h3>
-Quantum signal processing (QSP) relies on two components: i) a block-encoding of the operator; and ii) the ability to impart an arbitrary phase shift to the encoded operator. Block-encoding in simply means embedding the target operator inside a unitary matrix. Methods for block-encoding on qubit devices are mostly limited and block-encoding of a general Hamiltonian is difficult. 
-It might thus seem that such block-encoding will be especially challenging for infinite dimensional bosonic oscillators. Surprisingly, some physical interactions between qubits and oscillators can provide natural block-encodings. This allows qubitization of bosonic modes and generalization of QSP to hybrid CV-DV systems. We are interested to develop such hybrid CV-DV QSP into powerful framework to control and compile useful operations on hybrid qubit-oscillator quantum processors.
+<h3><b>Hybrid CV-DV Quantum Algorithms</b></h3>
+Designing better quantum algorithms has been one of the central pursuits of quantum computation. Hybrid CV-DV quantum systems provide novel playground for quantum algorithm design. We are interested in generalizing major quantum algorithmic primitives such as quantum signal processing (QSP), linear combination of unitaries (LCU), and product formulas from DV to hybrid CV-DV quantum computers. These new hybrid CV-DV quantum algorithms bring significant insights and quantum advantages to quantum computation, quantum simulation (boson-fermi mixed matter), quantum control, quantum error-correction, among many other applications.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/publication/QSPI/QSP.png" caption="A bosonic QSP circuit composed of single-qubit rotations and controlled displacement operations. The gates inside the bracket are repeated \(d\) times for different \(\theta_j~ (j = 1, 2, \cdots, d)\) in order to obtain a degree-\(d\) Laurent polynomial." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/publication/QSPI/QSP.png" caption="A single-variable hybrid CV-DV QSP circuit composed of single-qubit rotations and controlled displacement operations. The gates inside the bracket are repeated \(d\) times for different \(\theta_j~ (j = 1, 2, \cdots, d)\) in order to obtain a degree-\(d\) Laurent polynomial." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<p>&nbsp;</p>
+<h3><b>Hybrid CV-DV Quantum Processors and Architectures</b></h3>
+Just like quantum algorithms, hybrid CV-DV quantum processors opens a variety of possibilities for architecture and compiler design across the full quantum computing stack. We are interested in exploring new abstract machine models (AMMs) and instruction set architectures (ISAs) for these novel quantum computers. 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/publication/ISA/hardware_layout.pdf" caption="Schematic illustration of hybrid CV-DV hardware and its abstraction. See our bosonic ISA paper for more details." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

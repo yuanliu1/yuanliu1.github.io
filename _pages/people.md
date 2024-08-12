@@ -17,19 +17,31 @@ profiles:
     content: about_yliu.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p> &emsp;&emsp; Office: 2064 EB II <br /> &emsp;&emsp; Tel: 919-515-7360</p>
+      <p> &emsp;&emsp; Office: 2064 EB-II <br /> &emsp;&emsp; Tel: 919-515-7360</p>
   - align: left
-    image: 
+    image: empty.jpg 
     content: about_jb.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p> &emsp;&emsp; Office: 2105D EB II <br /> </p>
+      <p> &emsp;&emsp; Office: 2105D EB-II <br /> </p>
   - align: left
     image: am.jpg
     content: about_am.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p> &emsp;&emsp; Office: TBD <br /> </p>
+      <p> &emsp;&emsp; Office: 3038 EB-II <br /> </p>
+  - align: left
+    image: si.png
+    content: about_si.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
+  - align: left
+    image: empty.jpg
+    content: about_ed.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
     image: mr.jpg
     content: about_mr.md
@@ -47,7 +59,7 @@ profiles:
 ##    content: about_ljxiong.md
 ##    image_circular: true
   - align: left
-    image: 
+    image: lxbai.png 
     content: about_lxbai.md
     image_circular: true
   - align: left

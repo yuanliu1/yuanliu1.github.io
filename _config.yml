@@ -177,7 +177,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 8 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: False
@@ -424,3 +424,12 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+
+sort_by: date
+order: descending
+type_order: [article, inbook, book, preprint, misc, report, conference, incollections, inproceedings, proceedings]
+type_names: {preprint: preprint, report: reports, article: journal articles, 
+      inproceedings: conference articles & others}
+
