@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hybrid Discrete-Continuous Variable Quantum Computing 
-description: <h6> </h6>Conventionally, quantum information science studies the control of discrete-variable (DV) systems such as qubits. Continuous-variable (CV) systems such as bosonic modes are ubiquitous in Nature (such as molecular vibrations, phonons in solid materials, photons in optics) and yet much less is known on how to control and utilize them. We develop rigorious theories and efficient schemes to simultaneously manipulate multiple bosonic modes and qubits in a hybrid fashion to fully unleash the potential of hybrid DV-CV computation and quantum information processing.
+title: Hybrid Continuous-Discrete Variable Quantum Computing 
+description: <h6> </h6>Conventionally, quantum information science studies the control of discrete-variable (DV) systems such as qubits. Continuous-variable (CV) systems such as bosonic modes are ubiquitous in Nature (such as molecular vibrations, phonons in solid materials, photons in optics) and yet much less is known on how to control and utilize them. We develop rigorious theories and efficient schemes to simultaneously manipulate multiple bosonic modes and qubits in a hybrid fashion to fully unleash the potential of hybrid DV-CV computation and quantum computing.
 img: assets/img/qubit-osc.png
 importance: 2
-category: Hybrid Discrete-Continuous Variable Quantum Computing
+category: Hybrid Continuous-Discrete Variable Quantum Computing
 giscus_comments: true
 ---
 

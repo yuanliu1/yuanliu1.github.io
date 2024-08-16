@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 1
-display_categories: [Quantum Algorithms and Simulation, Hybrid Discrete-Continuous Variable Quantum Computing, Quantum Engineering] 
+display_categories: [Quantum Algorithms and Simulation, Hybrid Continuous-Discrete Variable Quantum Computing, Quantum Engineering] 
 horizontal: true
 ---
 
