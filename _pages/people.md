@@ -37,7 +37,7 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
-    image: empty.jpg
+    image: edas.jpg
     content: about_ed.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -58,6 +58,10 @@ profiles:
 ##    image: 
 ##    content: about_ljxiong.md
 ##    image_circular: true
+  - align: left
+    image: xlu.jpg 
+    content: about_xlu.md
+    image_circular: true
   - align: left
     image: lxbai.png 
     content: about_lxbai.md
