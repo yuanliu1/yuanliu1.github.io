@@ -1,5 +1,7 @@
 ### Former Group Members
 
+Manideepika Reddy Myaka (Master Student, Computer Science, NC State, 2024)
+
 Lingjun Xiong (Visiting undergrad, Physics, Huazhong University of Science and Technology, 2024)
 
 Leonard Li (Visiting undergrad, Information and Computer Science, Nanjing University, 2024)
