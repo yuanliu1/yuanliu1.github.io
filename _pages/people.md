@@ -43,12 +43,20 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
-    image: mr.jpg
-    content: about_mr.md
-    image_circular: true # crops the image to make it circular
-  - align: left
     image: dd.jpg
     content: about_dd.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_adonelli.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_rrutten.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_lholl.md
     image_circular: true # crops the image to make it circular
 ##  - align: left
 ##    image: 
@@ -65,6 +73,10 @@ profiles:
   - align: left
     image: lxbai.png 
     content: about_lxbai.md
+    image_circular: true
+  - align: left
+    image: empty.jpg 
+    content: about_bgg.md
     image_circular: true
   - align: left
     image: agou.jpeg 
