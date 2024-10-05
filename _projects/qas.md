@@ -5,7 +5,7 @@ description: <h6></h6>We are interested in efficient, scalable, and robust simul
 img: assets/img/project_1.png
 importance: 1
 category: Quantum Algorithms and Simulation
-related_publications:
+related_publications: liu2023bootstrap, martyn2023efficient, lu2024quantum, meher2024error, liu2020unveiling, liu2018ab, tan2023error, hardikar2024quanta
 ---
 
 <p>&nbsp;</p>
@@ -72,7 +72,7 @@ The intrinsic probabilistic nature of quantum systems makes error correction or 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/publication/ALEC/slides.png" caption="Our algorithmic-level error correction (ALEC) combines QSP/QSVT as a general framework for analyzing algorithmic-level errors with product formulas for studying how errors propogate. ALEC uses redundancy in time, as opposed to using redundancy in space to control errors." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/publication/ALEC/slides.png" caption="Our algorithmic-level error correction (ALEC) combines QSP/QSVT as a general framework for analyzing algorithmic-level errors with product formulas for studying how errors propagate. ALEC uses redundancy in time, as opposed to using redundancy in space to control errors." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

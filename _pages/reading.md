@@ -4,7 +4,7 @@ permalink: /reading/
 title: Readings
 description: 
 nav: false
-nav_order: 5
+nav_order: 6
 ---
 
 

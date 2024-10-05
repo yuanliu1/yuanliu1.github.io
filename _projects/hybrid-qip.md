@@ -6,6 +6,7 @@ img: assets/img/qubit-osc.png
 importance: 2
 category: Hybrid Continuous-Discrete Variable Quantum Computing
 giscus_comments: true
+related_publications: liu2024hybrid, liu2021constructing
 ---
 
 <p>&nbsp;</p>
@@ -38,7 +39,7 @@ Designing better quantum algorithms has been one of the central pursuits of quan
 Just like quantum algorithms, hybrid CV-DV quantum processors opens a variety of possibilities for architecture and compiler design across the full quantum computing stack. We are interested in exploring new abstract machine models (AMMs) and instruction set architectures (ISAs) for these novel quantum computers. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-4 mt-md-0">
         {% include figure.html path="assets/img/publication/ISA/hardware_layout.pdf" caption="Schematic illustration of hybrid CV-DV hardware and its abstraction. See our bosonic ISA paper for more details." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
