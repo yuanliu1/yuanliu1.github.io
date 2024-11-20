@@ -16,6 +16,15 @@ nav_order: 5
     </div>
 </div>
 
+<p>&nbsp;</p>
+
+<ul>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-12 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/202411_UTK_SEQW_Grandfather.jpg" caption="Trip to Southeast Quantum Workshop in Knoxville, near the Grandfather Mountain, November 2024. From left to right: Yuan, Prof. Bojko Bakalov, Shariful, Daniel, Aishwarya, Lu, Langxu (Steven)." class="img-fluidrounded z-depth-1" %}
+    </div>
+</div>
+
 
 <p>&nbsp;</p>
 
