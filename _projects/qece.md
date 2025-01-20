@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Quantum Engineering 
-description: <h6> </h6>Theories and protocols in Electrical and Computer Engineering (ECE) have been developed largely based on intuitions from classical physics. As quantum devices and signals play increasingly important roles, QIS will be indispensable to the emerging field of Quantum ECE. We are interested in investigating possible quantum advantages brought by QIS in a variety of topics including sensing/metrology/decision-making, mixed analog-digital quantum signal processing, and computer security.
+title: Quantum Electrical and Computer Engineering
+description: <h6> </h6>Theories and protocols in Electrical and Computer Engineering (ECE) have been developed largely based on intuitions from classical physics. As quantum devices and signals play increasingly important roles, QIS will be indispensable to the emerging field of Quantum ECE. We are interested in investigating possible quantum advantages brought by QIS in a variety of topics including sensing/metrology/decision-making, mixed analog-digital quantum signal processing, and computer architecture.
 img: assets/img/project_3.png
 importance: 3
 category: Quantum Engineering 
-related_publications: qftwithoscillator, sinanan2023single
+related_publications: qftwithoscillator, sinanan2023single, ang2024arquin, majumdar2025implementing
 ---
 
 

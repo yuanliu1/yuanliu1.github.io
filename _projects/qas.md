@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Quantum Algorithms and Simulation
-description: <h6></h6>We are interested in efficient, scalable, and robust simulation of complex physical and chemical processes on quantum computers, focusing on long-term fault-tolerant algorithms. This line of research will elucidate the intricate interplay between correlated electronic, vibrational, and dissipative processes that underpins fundamental aspects of chemistry and physics. Targeting applications include microscopic mechanisms of photosynthetic processes, quantum material design, and chemical reaction pathways in complex systems.
+description: <h6></h6>We are interested in efficient, scalable, and robust simulation of complex physical and chemical processes on quantum computers, focusing on long-term fault-tolerant algorithms. This line of research will elucidate the intricate interplay between correlated electronic, vibrational, and dissipative processes that underpins fundamental aspects of chemistry and physics. Targeting applications include microscopic mechanisms of photosynthetic processes, quantum material design, and chemical reaction pathways in complex systems. We are also interested in analyzing robustness and parallelism in quantum algorithms.
 img: assets/img/project_1.png
 importance: 1
 category: Quantum Algorithms and Simulation
-related_publications: liu2023bootstrap, martyn2023efficient, lu2024quantum, meher2024error, liu2020unveiling, liu2018ab, tan2023error, hardikar2024quanta
+related_publications: bastidas2024unification, martyn2024parallel, liu2023bootstrap, martyn2023efficient, lu2024unqsp, meher2024error, liu2020unveiling, liu2018ab, tan2023error, hardikar2024quanta
 ---
 
 <p>&nbsp;</p>
