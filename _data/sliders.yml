@@ -2,26 +2,18 @@
   bullets: false
   captions: true
   images:
-    - src: /img/1.jpg
-      alt: Minimum required attributes
-    - data-src: /img/2.jpg
-      alt: Use data-src for on-demand loading
-    - data-src: /img/3.jpg
-      data-src-2x: /img/3@2x.jpg
-      alt: Use data-src-2x for HiDPI devices
-    - src: /img/4.jpg
-      alt: Links work too
-      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+    - src: assets/img/project_11.png
+      alt: quantum bootstrap embedding algorithm for electronic structure
+    - src: assets/img/qubit-osc.png
+      alt: hybrid continuous-discrete-variable quantum computing
+    - src: assets/img/publication/Symmetry/Fig3N.pdf
+      alt: symmetry projection on 1D Ising model
+    - src: assets/img/publication/Mixed-QSP/CV-DV_schematic.png
+      alt: mixed digital-analog quantum signal processing
+    - src: assets/img/group-photo/202409_group-photo_small.jpg
+      alt: QuEST group, Fall 2024
   settings:
-    height: 400
-    initialHeight:
-    maxHeight:
-    interval:
-    transitionDuration:
-    effect:
-    disableNav:
-    keyboardNav:
-    previousNavSelector:
-    nextNavSelector:
+    height: "'auto'"
+    effect: "'fade'"
 
 
