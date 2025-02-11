@@ -7,10 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+
+
 <p>&nbsp;</p>
 
 <div class="row justify-content-sm-left">
-    <div class="col-sm-11 mt-4 mt-md-0">
+    <div class="col-sm-9 mt-4 mt-md-0">
         {% include figure.html path="assets/img/group-photo/202409_group-photo-2.jpg" caption="QUEST Group, Fall 2024. From left to right: Anthony, Aishwarya, Daniel, Yuan, Shariful, Joel, Elin, Lu, Langxu (Steven)." class="img-fluid z-depth-1" %}
     </div>
 </div>
@@ -19,7 +21,7 @@ nav_order: 5
 
 
 <div class="row justify-content-sm-left">
-    <div class="col-sm-11 mt-4 mt-md-0">
+    <div class="col-sm-9 mt-4 mt-md-0">
         {% include figure.html path="assets/img/group-photo/202411_UTK_SEQW_Grandfather.jpg" caption="Trip to Southeast Quantum Workshop in Knoxville, near the Grandfather Mountain, November 2024. From left to right: Yuan, Prof. Bojko Bakalov, Shariful, Daniel, Aishwarya, Lu, Langxu (Steven)." class="img-fluid z-depth-1" %}
     </div>
 </div>
@@ -28,7 +30,7 @@ nav_order: 5
 <p>&nbsp;</p>
 
 <div class="row justify-content-sm-left">
-    <div class="col-sm-11 mt-4 mt-md-0">
+    <div class="col-sm-9 mt-4 mt-md-0">
         {% include figure.html path="assets/img/group-photo/202409_dinner_Nafkot.jpg" caption="Group dinner, September 2024." class="img-fluid z-depth-1" %}
     </div>
 </div>

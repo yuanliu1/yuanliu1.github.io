@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /reading/
-title: Readings
+title: Student Resources
 description: 
-nav: false
-nav_order: 6
+nav: true
+nav_order: 5
 ---
 
+1. [Cheat Sheet on Hybrid Continuous-Discrete Variable Quantum Computing](https://helloluxi.github.io/cheat-sheet/). (Credit to visiting PhD student Xi Lu)
 
 1. Books to learn quantum information science:
 * [Quantum Computation and Quantum Information](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview), Michael A. Nielsen and Isaac L. Chuang.

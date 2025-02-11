@@ -72,10 +72,6 @@ profiles:
     content: about_xlu.md
     image_circular: true
   - align: left
-    image: lxbai.png 
-    content: about_lxbai.md
-    image_circular: true
-  - align: left
     image: empty.jpg 
     content: about_bgg.md
     image_circular: true
