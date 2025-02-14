@@ -17,6 +17,7 @@ nav_order: 5
 
 
 1. Lecture notes and open courses to learn quantum information science:
+* [Slides on hybrid CV-DV quantum computing](/assets/pdf/ISA-slides-sample_YLiu.pdf). 
 * Three-semester course series on quantum information science from MIT: [Semester I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/), [Semester II](https://ocw.mit.edu/courses/8-371x-quantum-information-science-ii-spring-2018/), [Semester III](https://mit-qis3.gitlab.io).
 * [Lecture Notes for Physics  Quantum Information and Computation](http://theory.caltech.edu/~preskill/ph219/ph219_2018-19), John Preskill.
 * Lecture notes on [Quantum Algorithms For Scientific Computation](https://math.berkeley.edu/~linlin/qasc/), Lin Lin.
