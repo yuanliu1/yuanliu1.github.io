@@ -8,6 +8,30 @@ nav_order: 5
 ---
 
 
+<p>&nbsp;</p>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-9 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/20250228_QIP-photo.jpeg" caption="Quantum Information Processing Conferene (QIP) 2025, Raleigh NC. From left to right: Kelly Mae, Kausthubh, Chris, Aishwarya, Yuan, Elin, Lu, Bojko." class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
+<p>&nbsp;</p>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-9 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/20250228_QIP_dinner.jpeg" caption="QIP 2025 Dinner, Lime and Lemon in Raleigh." class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
+<p>&nbsp;</p>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-9 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/2025_Feb-group-photo.jpg" caption="QUEST Group, Spring 2025. From left to right: Elin, Aishwarya, Ruofei, Shariful, Lu, Han, Jiyuan, Yuan. Missing in action: Joel." class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
 
 <p>&nbsp;</p>
 

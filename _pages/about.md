@@ -4,7 +4,7 @@ title: QUEST Lab
 permalink: /
 subtitle:
 image_sliders: 
-  - slider1
+  - slider1 # {% include slider.html selector="slider1" %}
 profile:
   align: right
   image: 
@@ -16,7 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-{% include slider.html selector="slider1" %}
 
 We are the Quantum Engineering and Simulation Theory (QUEST) Lab in the [Department of Electrical & Computer Engineering](https://ece.ncsu.edu) and the [Department of Computer Science](https://www.csc.ncsu.edu) at NC State University in Raleigh, North Carolina. Our [research](/research/) aims at developing quantum-information-science-inspired algorithms and framework to tackle long-lasting challenges in physical sciences and engineering, with a focus on quantum algorithms and simulation, hybrid continuous-discrete-variable quantum computing, and quantum engineering. 
 
