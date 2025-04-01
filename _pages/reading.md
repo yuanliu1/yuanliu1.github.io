@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+1. [ISCA-2025 Hybrid Oscillator-Qubit Quantum Processors Tutorial.](/assets/pdf/ISCA-2025_Tutorial_CV-DV_Liu-Zhou.pdf)
+
 1. [Cheat Sheet on Hybrid Continuous-Discrete Variable Quantum Computing](https://helloluxi.github.io/cheat-sheet/). (Credit to visiting PhD student Xi Lu)
 
 1. Books to learn quantum information science:
@@ -19,8 +21,9 @@ nav_order: 5
 1. Lecture notes and open courses to learn quantum information science:
 * [Slides on hybrid CV-DV quantum computing](/assets/pdf/ISA-slides-sample_YLiu.pdf). 
 * Three-semester course series on quantum information science from MIT: [Semester I](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/), [Semester II](https://ocw.mit.edu/courses/8-371x-quantum-information-science-ii-spring-2018/), [Semester III](https://mit-qis3.gitlab.io).
-* [Lecture Notes for Physics  Quantum Information and Computation](http://theory.caltech.edu/~preskill/ph219/ph219_2018-19), John Preskill.
-* Lecture notes on [Quantum Algorithms For Scientific Computation](https://math.berkeley.edu/~linlin/qasc/), Lin Lin.
+* [Lecture Notes on Quantum Computation](https://www.preskill.caltech.edu/ph219/index.html#lecture), John Preskill.
+* [Lecture Notes on Quantum Algorithms For Scientific Computation](https://math.berkeley.edu/~linlin/qasc/), Lin Lin.
+* [Lecture Notes on Quantum Algorithms](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), Andrew M. Childs.
 
 
 1. Books to learn quantum chemistry and many-body physics:
