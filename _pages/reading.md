@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-1. [ISCA-2025 Hybrid Oscillator-Qubit Quantum Processors Tutorial.](/assets/pdf/ISCA-2025_Tutorial_CV-DV_Liu-Zhou.pdf)
+1. [ISCA-2025 Hybrid Oscillator-Qubit Quantum Processors Tutorial.](/isca25/)
 
 1. [Cheat Sheet on Hybrid Continuous-Discrete Variable Quantum Computing](https://helloluxi.github.io/cheat-sheet/). (Credit to visiting PhD student Xi Lu)
 
