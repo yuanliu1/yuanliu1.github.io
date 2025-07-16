@@ -2,7 +2,7 @@
 layout: page
 title: Hybrid Oscillator-Qubit Quantum Processors -- Instruction Set Architecture, Abstract Machine Models, and Applications 
 permalink: /isca25/
-description: ISCA 2025 Tutorial -  Saturday June 21 afternoon - Room TBD
+description: ISCA 2025 Tutorial -  Saturday June 21 afternoon - Room 113, B1, Building 121
 img: 
 importance: 1
 category: 
@@ -44,5 +44,6 @@ The tutorial will also provide a demonstration session for programming such hybr
 * Yuan Liu et al., _Toward Mixed Analog-Digital Quantum Signal Processing: Quantum AD/DA Conversion and the Fourier Transform_, arXiv:2408.14729.
 * Zihan Chen, Jiakang Li, Minghao Guo, Henry Chen, Zirui Li, Joel Bierman, Yipeng Huang, Huiyang Zhou, Yuan Liu, Eddy Z. Zhang, _Genesis: A Compiler Framework for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers_. arXiv:2505.13683. To appear on ISCA (2025).
 
-<b> Relevant Codebase </b>
+<b> Relevant Codebase and Slides </b>
 * C2QA bosonic-qiskit. https://github.com/C2QA/bosonic-qiskit
+* [Slides](/assets/pdf/Hybrid_CV-DV_Tutorial-ISCA2025_combined.pdf).
