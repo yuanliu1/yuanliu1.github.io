@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description:  \(^*\)co-first author; \(^\dagger\)corresponding author
-nav: false
+nav: true
 nav_order: 2
 ---
 
