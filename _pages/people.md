@@ -50,7 +50,7 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
-    image: empty.jpg
+    image: mash.jpg
     content: about_mash.md
     image_circular: true # crops the image to make it circular
     more_info: >
