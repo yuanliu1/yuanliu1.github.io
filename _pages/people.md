@@ -44,7 +44,7 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
-    image: edas.jpg
+    image: edas.jpeg
     content: about_ed.md
     image_circular: true # crops the image to make it circular
     more_info: >
