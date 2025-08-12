@@ -26,6 +26,12 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 2105D EB-II <br /> </p>
   - align: left
+    image: empty.jpg 
+    content: about_yjavan.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: xxxx EB-II <br /> </p>
+  - align: left
     image: am.jpg
     content: about_am.md
     image_circular: true # crops the image to make it circular
@@ -44,20 +50,36 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
-    image: dd.jpg
-    content: about_dd.md
+    image: empty.jpg
+    content: about_mash.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_adonelli.md
+    image: kjoven.png
+    content: about_kjoven.md
     image_circular: true # crops the image to make it circular
-  - align: left
-    image: empty.jpg 
-    content: about_rrutten.md
-    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
+##   - align: left
+##     image: dd.jpg
+##     content: about_dd.md
+##     image_circular: true # crops the image to make it circular
+##   - align: left
+##     image: empty.jpg 
+##     content: about_adonelli.md
+##     image_circular: true # crops the image to make it circular
+##   - align: left
+##     image: empty.jpg 
+##     content: about_rrutten.md
+##     image_circular: true # crops the image to make it circular
   - align: left
     image: empty.jpg 
     content: about_lholl.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_chines.md
     image_circular: true # crops the image to make it circular
 ##  - align: left
 ##    image: 
