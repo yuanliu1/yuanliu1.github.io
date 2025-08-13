@@ -1,5 +1,7 @@
 ### Former Group Members
 
+Alexay Mehra, Undergrad '28 (Computer Engineering), NC State, Grand Challenges Scholars Program, Summer 2025.
+
 Weiyi An, Undergrad (Optoelectronic Information Science and Engineering), Huazhong University of Science and Technology, July - August 2025 (GEARS)
 
 Jiaqi Chai, Undergrad (Optoelectronic Information Science and Engineering), Southern University of Science and Technology (SUSTech), July - August 2025 (GEARS)
