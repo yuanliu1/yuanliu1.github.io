@@ -1,6 +1,6 @@
 ---
 layout: about
-title: QUEST Lab
+title: About
 permalink: /
 subtitle:
 image_sliders: 
@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
  <!-- Text column -->
     <div class="col-sm-6 mt-4 mt-md-0" style="font-size: 1.35rem;">
         <p>
-{{ "We are the Quantum Engineering and Simulation Theory (QUEST) Lab in the [Department of Electrical & Computer Engineering](https://ece.ncsu.edu) and the [Department of Computer Science](https://www.csc.ncsu.edu) at NC State University in Raleigh, North Carolina." | markdownify }}
+{{ "Welcome to the Quantum Engineering and Simulation Theory (QUEST) Lab in the [Department of Electrical & Computer Engineering](https://ece.ncsu.edu) and the [Department of Computer Science](https://www.csc.ncsu.edu) at NC State University in Raleigh, North Carolina!" | markdownify }}
         </p>
         <p>
 {{ "[Our research](/research/) aims at developing quantum-information-science-inspired algorithms and framework to tackle long-lasting challenges in physical sciences and engineering, with a focus on quantum algorithms and simulation, hybrid continuous-discrete-variable quantum computing, and quantum engineering." | markdownify }}
