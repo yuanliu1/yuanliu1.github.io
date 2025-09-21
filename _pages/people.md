@@ -37,12 +37,12 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: 3038 EB-II <br /> </p>
-  - align: left
-    image: si.png
-    content: about_si.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
+#   - align: left
+#    image: si.png
+#    content: about_si.md
+#    image_circular: true # crops the image to make it circular
+#    more_info: >
+#      <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
     image: edas.jpeg
     content: about_ed.md
@@ -89,10 +89,10 @@ profiles:
 ##    image: 
 ##    content: about_ljxiong.md
 ##    image_circular: true
-  - align: left
-    image: xlu.jpg 
-    content: about_xlu.md
-    image_circular: true
+#  - align: left
+#    image: xlu.jpg 
+#    content: about_xlu.md
+#    image_circular: true
   - align: left
     image: empty.jpg 
     content: about_bgg.md
