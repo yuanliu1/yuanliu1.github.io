@@ -1,5 +1,9 @@
 ### Former Group Members
 
+Shariful Islam, PhD student, Physics, NC State University, June 2024 - September 2025.
+
+Xi Lu, visiting PhD student, Applied Math, Zhejiang University, July 2024 - August 2025.
+
 Alexay Mehra, Undergrad '28 (Computer Engineering), NC State, Grand Challenges Scholars Program, Summer 2025.
 
 Weiyi An, Undergrad (Optoelectronic Information Science and Engineering), Huazhong University of Science and Technology, July - August 2025 (GEARS)
