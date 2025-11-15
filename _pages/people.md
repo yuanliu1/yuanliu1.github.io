@@ -25,12 +25,12 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: 2105D EB-II <br /> </p>
-  - align: left
-    image: yjavan.jpg 
-    content: about_yjavan.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p> &emsp;&emsp; Office: xxxx EB-II <br /> </p>
+#  - align: left
+#    image: yjavan.jpg 
+#    content: about_yjavan.md
+#    image_circular: true # crops the image to make it circular
+#    more_info: >
+#      <p> &emsp;&emsp; Office: xxxx EB-II <br /> </p>
   - align: left
     image: am.jpg
     content: about_am.md
