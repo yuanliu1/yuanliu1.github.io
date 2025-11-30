@@ -12,7 +12,7 @@ profile:
   address: 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -30,7 +30,7 @@ social: true  # includes social icons at the bottom of the page
 {{ "[Our research](/research/) aims at developing quantum-information-science-inspired algorithms and framework to tackle long-lasting challenges in physical sciences and engineering, with a focus on quantum algorithms and simulation, hybrid continuous-discrete-variable quantum computing, and quantum engineering." | markdownify }}
         </p>
         <p>
-            {{ "We are always looking for motivated students and scholars to join us to explore the exciting frontier of quantum information science and engineering!" | markdownify }}
+            {{ "We are always looking for motivated students and scholars to join us to explore the exciting quantum frontier!" | markdownify }}
         </p>
     </div>
 </div>

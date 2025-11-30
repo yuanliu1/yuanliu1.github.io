@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-**Last update April, 2025. See [Google Scholar](https://scholar.google.com/citations?user=5EGClVoAAAAJ) for the most recent and complete list of publications.**
+**Last updated in April 2025. See [Google Scholar](https://scholar.google.com/citations?hl=en&user=5EGClVoAAAAJ&view_op=list_works&sortby=pubdate) for the most recent and complete list of publications.**
 
 <!-- _pages/publications.md -->
 <div class="publications">
