@@ -1,8 +1,9 @@
 ### Former Group Members
+Brayden Goldstein-Gelb, Undergraduate Student, Computer Science (2025-2025), Brown University (Senior thesis with the QUEST Lab)
 
 Shariful Islam, PhD student, Physics, NC State University, June 2024 - September 2025.
 
-Xi Lu, visiting PhD student, Applied Math, Zhejiang University, July 2024 - August 2025.
+[Xi Lu](https://xlu.casa), visiting PhD student, Applied Math, Zhejiang University, July 2024 - August 2025.
 
 Alexay Mehra, Undergrad '28 (Computer Engineering), NC State, Grand Challenges Scholars Program, Summer 2025.
 
@@ -22,7 +23,7 @@ Daniel Dong, Masters (Computer Science) -- 2024-2025
 
 Rosalie Rutten, Undergrad (Computer Science, August 2024 - May 2025)
 
-Nathan Woodward, visiting research scholar (ECE), NC State, June 2024 - April 2025
+Nathan Woodward, visiting research scholar (ECE), NC State, June 2024 - April 2025 (current position: Research Scientist, Wolfspeed)
 
 Anthony Donelli, Undergrad (Computer Engineering, 2025)
 
@@ -32,7 +33,7 @@ Manideepika Reddy Myaka (Master Student, Computer Science, NC State, 2024)
 
 Lingjun Xiong (Visiting undergrad, Physics, Huazhong University of Science and Technology, 2024)
 
-Leonard Li (Visiting undergrad, Information and Computer Science, Nanjing University, 2024)
+[Leonard Li](https://blog.lsamc.website/) (Visiting undergrad, Information and Computer Science, Nanjing University, 2024)
 
 Mihir Nikam (Master student in Computer Science, NC State, 2024)
 
