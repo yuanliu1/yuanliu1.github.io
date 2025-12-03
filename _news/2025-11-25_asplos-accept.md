@@ -4,7 +4,7 @@ date: 2025-11-25
 inline: true
 ---
 
-Our tutorial _Hybrid Continuous-Discrete-Variable Quantum Computing_ and our paper [COMPAS: A Distributed Multi-Party SWAP Test for Parallel Quantum Algorithms]() both have been accepted to **ASPLOS '26** (the ACM International Conference on Architectural Support for Programming Languages and Operating Systems)!
+Our tutorial _Hybrid Continuous-Discrete-Variable Quantum Computing_ and our paper [COMPAS: A Distributed Multi-Party SWAP Test for Parallel Quantum Algorithms](http://arxiv.org/abs/2511.23434) both have been accepted to **ASPLOS '26** (the ACM International Conference on Architectural Support for Programming Languages and Operating Systems)!
 \\
 COMPAS is the first distributed implementation of the multi-party SWAP test on quantum computers, by extending the leading construction to the distributed setting while preserving optimal circuit depth and memory overhead. As distributed quantum computing is becoming increasingly important, our work establishes efficient implementation of core primitives for future production-level deployment of distributed quantum computational science! 
 \\
