@@ -25,12 +25,12 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: 2105D EB-II <br /> </p>
-#  - align: left
-#    image: yjavan.jpg 
-#    content: about_yjavan.md
-#    image_circular: true # crops the image to make it circular
-#    more_info: >
-#      <p> &emsp;&emsp; Office: xxxx EB-II <br /> </p>
+  - align: left
+    image: empty.jpg 
+    content: about_cc.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: 2105B EB-II <br /> </p>
   - align: left
     image: am.jpg
     content: about_am.md
@@ -67,34 +67,30 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: 3224 EB-II <br /> </p>
-##   - align: left
-##     image: dd.jpg
-##     content: about_dd.md
-##     image_circular: true # crops the image to make it circular
-##   - align: left
-##     image: empty.jpg 
-##     content: about_adonelli.md
-##     image_circular: true # crops the image to make it circular
-##   - align: left
-##     image: empty.jpg 
-##     content: about_rrutten.md
-##     image_circular: true # crops the image to make it circular
-  - align: left
-    image: empty.jpg 
-    content: about_lholl.md
-    image_circular: true # crops the image to make it circular
-  - align: left
-    image: empty.jpg 
-    content: about_chines.md
-    image_circular: true # crops the image to make it circular
   - align: left
     image: empty.jpg 
     content: about_mab.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: agou.jpeg 
-    content: about_agou.md
-    image_circular: true
+    image: empty.jpg 
+    content: about_brandon.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_petr.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_sam.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_nidhi.md
+    image_circular: true # crops the image to make it circular
+#  - align: left
+#    image: agou.jpeg 
+#    content: about_agou.md
+#    image_circular: true
   - align: left
     image: 
     content: about_former.md

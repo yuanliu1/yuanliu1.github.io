@@ -5,11 +5,13 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 1
-display_categories: [Quantum Algorithms and Simulation, Hybrid Continuous-Discrete Variable Quantum Computing, Quantum Engineering] 
+display_categories: [Algorithms and Applications, Hybrid Continuous-Discrete Variable Quantum Computing, Quantum Engineering] 
 horizontal: true
 ---
 
-Quantum information science (QIS) studies the control and manipulation of quantum information. It provides new perspectives to rejuvenate our understanding of the fundamental aspects of Nature, and also serves as a powerful tool to solve important practical problems with ever-increasing complexity. Combining rigorous analytical reasoning and efficient numerical approaches, our research in the QUEST Lab aims at developing novel QIS-inspired algorithms and framework to tackle long-lasting challenges in physical sciences and engineering.
+Quantum information science (QIS) studies the control and manipulation of quantum information. It provides new perspectives to our understanding of the fundamental aspects of Nature, and also serves as a powerful tool to solve practical problems with ever-increasing complexity.
+
+Our research spans quantum algorithms and simulation, hybrid continuous-discrete-variable quantum computing, and quantum engineering, with applications ranging from simulating complex physical and chemical systems to advancing quantum signal processing and error-resilient computation.
 
 
 
