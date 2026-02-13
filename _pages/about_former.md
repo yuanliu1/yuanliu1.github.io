@@ -1,4 +1,8 @@
 ### Former Group Members
+Loren Holl (Computer Science, 2025), NC State University
+
+Coleman Hines (Mathematics, 2028), NC State University
+
 Brayden Goldstein-Gelb, Undergraduate Student, Computer Science (2025-2025), Brown University (Senior thesis with the QUEST Lab)
 
 Shariful Islam, PhD student, Physics, NC State University, June 2024 - September 2025.
