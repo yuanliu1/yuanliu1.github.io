@@ -10,6 +10,9 @@ related_publications: lu2024quantum, qftwithoscillator, liu2024hybrid, liu2021co
 ---
 
 <p>&nbsp;</p>
+Check out our [Center for Hybrid Quantum Computing](https://webpublishing.oit.ncsu.edu/cvdv-ncsu-edu/) site for more information.
+
+<p>&nbsp;</p>
 <h3><b>Qubit-Oscillator Qudit</b></h3>
 Bosonic modes (quantum harmonic oscillators) provide vast hardware-efficient quantum resources because even a single bosonic mode can be used as a multi-level quantum system. We are interested to design quantum control protocols to harnessing these continuous-variable bosonic systems for quantum computation, by constructing finite dimensional qudits from an oscillator using simple Jaynes-Cummings interactions, which is readily implementable on trapped ion quantum computers.
 
