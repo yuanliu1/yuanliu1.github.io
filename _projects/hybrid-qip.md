@@ -10,7 +10,7 @@ related_publications: lu2024quantum, qftwithoscillator, liu2024hybrid, liu2021co
 ---
 
 <p>&nbsp;</p>
-Check out our [Center for Hybrid Quantum Computing](https://webpublishing.oit.ncsu.edu/cvdv-ncsu-edu/) site for more information.
+**Check out our [Center for Hybrid Quantum Computing](https://cvdv.ncsu.edu) for more information.**
 
 <p>&nbsp;</p>
 <h3><b>Qubit-Oscillator Qudit</b></h3>

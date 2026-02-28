@@ -1,48 +1,65 @@
 ---
 layout: page
-title: Quantum Algorithms and Simulation
-description: <h6></h6>We are interested in efficient, scalable, and robust simulation of complex physical and chemical processes on quantum computers, focusing on long-term fault-tolerant algorithms. This line of research will elucidate the intricate interplay between correlated electronic, vibrational, and dissipative processes that underpins fundamental aspects of chemistry and physics. Targeting applications include microscopic mechanisms of photosynthetic processes, quantum material design, and chemical reaction pathways in complex systems. We are also interested in analyzing robustness and parallelism in quantum algorithms.
+title: Algorithms and Applications
+permalink: /research/qas/
+description: <h6></h6>We are interested in developing quantum and classical algorithms that are efficient, scalable, and robust, focusing on long-term fault-tolerant quantum computation and its applications. Typical applications include quantum simulation of complex physical and chemical processes, optimization, and classical mechanics problems. 
 img: assets/img/project_1.png
-importance: 1
-category: Quantum Algorithms and Simulation
-related_publications: bastidas2024unification, martyn2024parallel, liu2023bootstrap, martyn2023efficient, lu2024unqsp, meher2024error, liu2020unveiling, liu2018ab, tan2023error, hardikar2024quanta
+display_categories: [Quantum Simulation of Physical Sciences, Parallel and Distributed Quantum Computing, Monte Carlo Methods, Error-Resilience] 
+horizontal: true
 ---
 
-<p>&nbsp;</p>
-<!-- <ul><li><h3><b> Quantum Simulation of Physical Sciences</b> </h3></li></ul> -->
-<h3><b> Quantum Simulation of Physical Sciences</b> </h3>
 
-Theoretical physical sciences (chemistry, condensed matter physics, and biology) have made tremendous progress towards modeling physical processes, largely by relying on classical algorithms and computational resources. However, Nature is inherently quantum, and it is critical to harness quantum resources to simulate and understand physical processes. 
-Quantum computers provide enormous computational power, while the best ways to use them for simulating physical sciences remain unclear.
-We develop novel paradigms to tackle both <emph>static</emph> problems such as electronic structure and <emph>dynamic</emph> problems such as real-time evolution of quantum systems, by combining the recent discovery of a powerful quantum singular value transformation (QSVT) algorithm and other quantum information concepts to fully unleash the power of quantum computers.
+<!-- pages/projects.md -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
 
-
-<ul>
-<li><h4><b>Electronic Structure</b></h4></li>
-<p>
-Electronic structure theory studies the eigenstates and eigenenergies of many-electron interacting systems. Exact solutions of electronic structure on classical computers are intractable for large systems. We are interested in potential quantum advantages of quantum computers for such problems.
-</p>
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/publication/QBE/fig1_schematic.png" caption="Our recent <b>quantum bootstrap embedding</b> algorithm leverages small quantum computers to solve large electronic structure problems based on locality of quantum entanglement in molecules. Schematic of the quantum bootstrap embedding algorithm (right, red) as compared to the classical bootstrap embedding algorithm (left, blue)." class="img-fluid rounded z-depth-1" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
     </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-1">
+    {%- for project in sorted_projects -%}
+      <p>&nbsp;</p> 
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
 </div>
 
-<p>&nbsp;</p>
-<li><h4><b>Real-Time Dynamics</b></h4></li>
 
-<p>
-Real-time dynamics (Hamiltonian simulation) of interacting quantum systems are notoriously difficult on classical computers but they can be efficiently simulated on quantum computers. We are interested in developing efficient Hamiltonian simulation algorithms based on hybrid qubit-bosonic quantum resources to solve <em>practical</em> chemistry problems that are relevant to photosynthesis and catalysis, which often involve both electron and nuclei motion.
-</p>
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/publication/One-shot/h2_sim_newest5.png" caption="Femto-second charge oscillation dynamics in a hydrogen molecule, simulated by our <b>fully coherent and efficient</b> quantum signal processing algorithms with optimal query complexity." class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <p>&nbsp;</p>
 <li><h4><b>Finite-Temperature and Extended Systems</b></h4></li>

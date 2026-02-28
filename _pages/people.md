@@ -87,6 +87,14 @@ profiles:
     image: empty.jpg 
     content: about_nidhi.md
     image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_charanjit.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: empty.jpg 
+    content: about_vignesh.md
+    image_circular: true # crops the image to make it circular
 #  - align: left
 #    image: agou.jpeg 
 #    content: about_agou.md

@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
-1. [ASPLOS-2026 Hybrid Oscillator-Qubit Quantum Processors Tutorial.](/asplos26/)
+1. [ASPLOS-2026 Hybrid Oscillator-Qubit Quantum Processors Tutorial.](https://cvdv.ncsu.edu/resources/asplos-tutorial/)
 
 1. [ISCA-2025 Hybrid Oscillator-Qubit Quantum Processors Tutorial.](/isca25/)
 
