@@ -10,6 +10,34 @@ nav_order: 5
 <p>&nbsp;</p>
 <div class="row justify-content-sm-left">
     <div class="col-sm-9 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/2026_spring_1.jpg" caption="Group photo, spring 2026." class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
+<p>&nbsp;</p>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-9 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/2026_spring_psi.jpg" caption="Group photo, spring 2026." class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
+<p>&nbsp;</p>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-9 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/2026_spring_q.jpg" caption="Group photo, spring 2026." class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
+<p>&nbsp;</p>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-9 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/group-photo/2026_spring_bridge.jpg" caption="Group photo, spring 2026." class="img-fluid z-depth-1" %}
+    </div>
+</div>
+
+<p>&nbsp;</p>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-9 mt-4 mt-md-0">
         {% include figure.html path="assets/img/events/QSymposium_Group-photo_2025.jpeg" caption="NC State Annual Quantum Symposium (Yuan served as the Symposium Chairman). May 2025." class="img-fluid z-depth-1" %}
     </div>
 </div>
