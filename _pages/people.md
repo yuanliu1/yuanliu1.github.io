@@ -27,22 +27,16 @@ profiles:
       <p> &emsp;&emsp; Office: 2105D EB-II <br /> </p>
   - align: left
     image: empty.jpg 
-    content: about_cc.md
+    content: about_jingchen.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p> &emsp;&emsp; Office: 2105B EB-II <br /> </p>
+      <p> &emsp;&emsp; Office: 2105H EB-II <br /> </p>
   - align: left
     image: am.jpg
     content: about_am.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: 3038 EB-II <br /> </p>
-#   - align: left
-#    image: si.png
-#    content: about_si.md
-#    image_circular: true # crops the image to make it circular
-#    more_info: >
-#      <p> &emsp;&emsp; Office: 3036 EB-II <br /> </p>
   - align: left
     image: edas.jpeg
     content: about_ed.md
@@ -68,37 +62,59 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 3224 EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_mab.md
+    image: empty.jpg
+    content: about_yongxiang.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_brandon.md
+    image: empty.jpg
+    content: about_sharanya.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_petr.md
+    image: empty.jpg
+    content: about_pawan.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_sam.md
+    image: empty.jpg
+    content: about_jaehyun.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_nidhi.md
+    image: empty.jpg
+    content: about_selina.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_charanjit.md
+    image: empty.jpg
+    content: about_sheng.md
     image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
-    content: about_vignesh.md
+    image: empty.jpg
+    content: about_zhuozi.md
     image_circular: true # crops the image to make it circular
-#  - align: left
-#    image: agou.jpeg 
-#    content: about_agou.md
-#    image_circular: true
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
+  - align: left
+    image: empty.jpg
+    content: about_yuanyi.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
+  - align: left
+    image: empty.jpg
+    content: about_jiaxin.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
     image: 
     content: about_former.md
