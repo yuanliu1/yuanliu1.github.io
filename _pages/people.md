@@ -26,7 +26,7 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 2105D EB-II <br /> </p>
   - align: left
-    image: empty.jpg 
+    image: jingchen.jpeg 
     content: about_jingchen.md
     image_circular: true # crops the image to make it circular
     more_info: >
