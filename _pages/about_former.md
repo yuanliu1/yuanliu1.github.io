@@ -2,6 +2,8 @@
 
 [Dr. Cheng Chu](https://chuchengc.github.io), Postdoc, Feb - July 2026. Now Assistant Professor of Computer Science in George Mason University
 
+Onil Morshed, visiting undergraduate student, Computer Science and Mathematics, Gettysburg College. May - July 2026.
+
 Marwan Abdelgawad, Undergraduate Student, Electrical and Computer Engineering, NC State
 
 Brandon Wright, Undergraduate Student, Computer Science, NC State
