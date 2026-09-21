@@ -62,7 +62,7 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: 3224 EB-II <br /> </p>
   - align: left
-    image: empty.jpg
+    image: Yongxiang.jpg
     content: about_yongxiang.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -74,13 +74,13 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg
+    image: pawan.jpg
     content: about_pawan.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg
+    image: jlee.png
     content: about_jaehyun.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -104,14 +104,14 @@ profiles:
     more_info: >
       <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
-    image: empty.jpg
+    image: yuanyi.jpg
     content: about_yuanyi.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: EB-II <br /> </p>
   - align: left
     image: empty.jpg
-    content: about_jiaxin.md
+    content: about_cho.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p> &emsp;&emsp; Office: EB-II <br /> </p>
